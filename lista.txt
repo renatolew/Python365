@@ -1,0 +1,6 @@
+perna
+banana
+cabelo
+pipoca
+camiseta
+sapato
